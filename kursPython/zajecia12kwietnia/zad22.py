@@ -1,0 +1,5 @@
+print(1 == 1)
+print(1 < 2)
+print(5 != 10)
+print(0.3 + 0.3 + 0.3 == 0.9)
+print(type(1)==type(1.0))

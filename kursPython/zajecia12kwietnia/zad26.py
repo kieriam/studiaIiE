@@ -1,0 +1,1 @@
+print(r"d:\dane\n\python")

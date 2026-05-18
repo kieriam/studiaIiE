@@ -8,7 +8,9 @@ x = (input())
 try:
     x = int(x)
 except ValueError:
-    print("Nieprawidłowy typ!")
+    print("Nieprawidłowy wartość!")
+except TypeError:
+    print("Nieprawidłowy typ")
 
 
 for i in range(len(cyfry)):
